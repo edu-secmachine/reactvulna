@@ -56,14 +56,6 @@ class Users extends Component {
       p.innerHTML = '<span><i>' + chatMessage.author.name + '</i></span><span>:&nbsp;</span><span>' + chatMessage.message + '</span>'
       document.getElementById('chatPanel').appendChild(p);
       this.scrollChatWindowDown();
-      /*this.messages.push({
-        message: chatMessage.message,
-        author: {
-          name: chatMessage.author.name
-        }
-      });
-      const listItems = this.renderChatWindow();
-      this.setState({messageListItems: listItems});*/
     }
 
   }
