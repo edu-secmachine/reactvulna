@@ -1,8 +1,8 @@
 import  {Component} from 'react';
 
 class Constants extends Component {
-  static backendUrlBase = "http://localhost:8080/";
-  static backendRESTUrlBase = "http://localhost:8080/rest/";
+  static backendUrlBase = "http://35.204.241.43:31337/";
+  static backendRESTUrlBase = "http://35.204.241.43:31337/rest/";
 }
 
 export default Constants;
