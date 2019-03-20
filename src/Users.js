@@ -87,7 +87,7 @@ class Users extends Component {
             </tr>
             <tr>
               <td><h3><span class="label label-default">Web-page</span></h3></td>
-              <td><h3><a href={user.webPageUrl}>Go to {user.name}s web page</a></h3></td>
+              <td><h3><a href={user.webPageUrl} target="_blank">Go to {user.name}s web page</a></h3></td>
             </tr>
           </tbody>
         </table>

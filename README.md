@@ -44,7 +44,13 @@ How could you fix it?!
 
 <a name="Exercise_csrf"></a>
 ### Exercise 3 – CSRF
-The application is vulnerable to both CSRF! Find the OSRF vulnerability, and exploit it!  
+The application is vulnerable to  CSRF! 
+Find the CSRF vulnerability, and exploit it!  
 How would you fix this vulnerability?
+
+<a name="Exercise_tabnab"></a>
+### Exercise 4 – Tabnabbing
+The application is vulnerable to Tabnabbing! Find the vulnerable place, and exploit it!  
+Fix the vulnerability!  
 
 
